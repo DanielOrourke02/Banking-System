@@ -28,9 +28,9 @@
 > [!WARNING]
 > Has not been tested on MAC OS.
 
-```g++ main.cpp -o bank```
+`g++ main.cpp -o bank`
 
-```./bank```
+`./bank`
 
 
 <h2 align="center">
