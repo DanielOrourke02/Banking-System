@@ -12,6 +12,8 @@
   <a href="#-resource-links">Resource Links</a>
   •
   <a href="#-getting-started">Getting Started</a>
+  •
+  <a href="#-getting-started">Features</a>
 </p>
 
 <br>
@@ -40,3 +42,5 @@
 </h2>
 
 <p align="center">Hire Me: https://discord.gg/kNWkT8xWg6 Or DM ME: mal023</p>
+
+## 🎉 Features
