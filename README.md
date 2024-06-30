@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Banking-System-cpp
+  Banking System in C++
   <br>
 </h1>
 
