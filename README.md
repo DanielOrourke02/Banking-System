@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<p align="center">A CLI Banking System in C++. Windows and Linux compatible.</p>
+<p align="center">A CLI based banking system compatible with Windows and Linux, utilizing SQL databases.</p>
 
 <br>
 
