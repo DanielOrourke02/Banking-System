@@ -29,6 +29,7 @@
 > Has not been tested on MAC OS.
 
 ```g++ main.cpp -o bank```
+
 ```./bank```
 
 
