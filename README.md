@@ -30,6 +30,10 @@
 > [!WARNING]
 > Has not been tested on MAC OS.
 
+`git clone https://github.com/DanielOrourke02/Banking-System-cpp`
+
+`cd Banking-System-cpp`
+
 `g++ main.cpp -o bank`
 
 `./bank`
