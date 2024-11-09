@@ -30,14 +30,16 @@
 > [!WARNING]
 > Has not been tested on MAC OS.
 
-`git clone https://github.com/DanielOrourke02/Banking-System-cpp`
+```
+git clone https://github.com/DanielOrourke02/Banking-System-cpp
+cd Banking-System-cpp
+g++ main.cpp -o bank
+```
 
-`cd Banking-System-cpp`
-
-`g++ main.cpp -o bank`
-
-`./bank`
-
+- Now run the compiled exe
+```
+./bank
+```
 
 <h2 align="center">
   <br>
